@@ -1,0 +1,119 @@
+       
+
+            header{
+                width: 430px;
+                height: 100px;
+                background-color:rgb(236, 163, 163)
+            }
+
+            #one{
+                width: 100px;
+                height: 100px;
+                background-color:red; color: white;
+
+            }
+
+            #five{
+                width: 100px;
+                height: 100px;
+                background-color:white;
+            }
+
+            #nine{
+                width: 100px;
+                height: 100px;
+                background-color: orangered; color: white;
+            }
+
+            #thirteen{
+                width: 100px;
+                height: 100px;
+                background-color: white;
+            
+            }       
+          
+            #two{
+                width: 100px; 
+                height: 100px;
+                background-color: orange; color: white;
+            }
+
+            
+            #six{
+                width: 100px;
+                height: 100px;
+                background-color: white;
+            }
+
+            #ten{
+                width: 100px;
+                height: 100px;
+                background-color: yellow; color: white;
+            }
+
+            #fourteen{
+                width: 100px;
+                height: 100px;
+                background-color:white;
+             }
+
+           
+            
+
+            #three{
+                width: 100px; 
+                height: 100px;
+                background-color: yellowgreen; color: white;
+
+            }
+            #seven{
+                width: 100px;
+                height: 100px;
+                background-color:white;
+            }
+
+            #eleven{
+                width: 100px;
+                height: 100px;
+                background-color:green; color: white;
+            }
+
+            #fifteen{
+                width: 100px;
+                height: 100px;
+                background-color: white;
+            }
+
+            
+            #four{
+                width: 100px; 
+                height: 100px;
+                background-color: blue; color: white;
+
+            }
+
+            #eight{
+                width: 100px;
+                height: 100px;
+                background-color: white;
+            }
+
+            #twelve{
+                width: 100px;
+                height: 100px;
+                background-color: rgb(237, 125, 213);
+                color: white;
+            }
+
+            #sixteen{
+                width: 100px;
+                height: 100px;
+                background-color: white;
+            }
+
+            footer{
+                width: 430px;
+                height: 100px;
+                background-color:rgb(235, 207, 207)
+            }
+       
